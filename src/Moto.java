@@ -1,4 +1,8 @@
-
+/**
+ * versione 3
+ * @author 4a
+ *
+ */
 public class Moto extends Veicolo {
 
 	private int nruote;
