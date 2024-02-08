@@ -4,7 +4,7 @@ private String tipo;
 private final int tariffaG=10;
 
 	/**
-	 * versione2
+	 * versione3
 	 * @param t
 	 * @param m
 	 * @param dis
